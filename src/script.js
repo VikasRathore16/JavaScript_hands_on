@@ -977,3 +977,12 @@ while (i >=0) {
 for (let i = 0; i < 5; i++) {
     ourArray.push(i);
   }
+
+
+  // Setup
+const myArray = [];
+
+// Only change code below this line
+for (let i = 1; i < 10; i += 2) {
+  myArray.push(i);
+}

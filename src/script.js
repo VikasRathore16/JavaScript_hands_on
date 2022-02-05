@@ -961,7 +961,7 @@ const recordCollection = {
     return records;
   }
   
-  updateRecords(recordCollection, 5439, 'artist', 'ABBA');\
+  updateRecords(recordCollection, 5439, 'artist', 'ABBA');
 
   // Setup
 const myArray = [];
@@ -972,3 +972,8 @@ while (i >=0) {
   myArray.push(i);
   i--;
 }
+
+
+for (let i = 0; i < 5; i++) {
+    ourArray.push(i);
+  }

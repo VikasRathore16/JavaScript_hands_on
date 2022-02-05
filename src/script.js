@@ -201,3 +201,6 @@ const wordBlanks = myNoun+ "$" +myVerb+"$"+ myAdjective +"$"+ myAdverb; // Chang
 
 // Only change code below this line
 const myArray = ["Hello" , 5];
+
+// Only change code below this line
+const myArray = [["Bulls", 23], ["White Sox", 45]];

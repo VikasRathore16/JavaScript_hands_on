@@ -18,3 +18,7 @@ var b;
 
 // Only change code below this line
 b=a;
+
+
+//initilizing a varible with 9
+var a=9;

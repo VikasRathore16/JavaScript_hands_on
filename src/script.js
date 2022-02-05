@@ -82,3 +82,5 @@ const ourDecimal = 5.7;
 
 // Only change code below this line
 const myDecimal = 5.7;
+
+const product = 1.0 * 5.0;

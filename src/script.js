@@ -22,3 +22,7 @@ b=a;
 
 //initilizing a varible with 9
 var a=9;
+
+
+var myFirstName = "Vikas";
+var myLastName ="Rathore";

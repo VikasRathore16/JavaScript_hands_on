@@ -961,4 +961,14 @@ const recordCollection = {
     return records;
   }
   
-  updateRecords(recordCollection, 5439, 'artist', 'ABBA');
+  updateRecords(recordCollection, 5439, 'artist', 'ABBA');\
+
+  // Setup
+const myArray = [];
+
+// Only change code below this line
+var i=5;
+while (i >=0) {
+  myArray.push(i);
+  i--;
+}

@@ -2,3 +2,5 @@
 /*
 SEVEN
 */
+
+var myName ;
